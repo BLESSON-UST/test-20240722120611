@@ -1,0 +1,13 @@
+The given code appears to be written in YAML format and it represents a configuration for Spring Cloud.
+
+Here's the code upgraded to be compatible with version 17, using the latest language features and best practices:
+
+```yaml
+spring:
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:9296
+```
+
+The changes made include updating the `enable` key to `enabled` and removing unnecessary indentation.

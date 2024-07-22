@@ -1,0 +1,14 @@
+The given code appears to be written in YAML format. To upgrade the code to be compatible with version 17, we will modify the syntax slightly and convert it to a YAML version compatible with the latest version.
+
+Updated Code:
+```
+server:
+  port: 9002
+spring:
+  application:
+    name: DEPARTMENT-SERVICE
+  zipkin:
+    base-uri: http://127.0.0.1:9411/
+```
+
+Please note that YAML does not have an official version number like programming languages do. It is a data serialization language and doesn't undergo versioning in the same way. Therefore, there is no specific version for YAML that corresponds to version 17. The code provided is compatible with the latest version of YAML.
